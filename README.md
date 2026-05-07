@@ -76,7 +76,7 @@ http://localhost:8000
       "language": "C#",
       "stars": 150,
       "forks": 25,
-      "url": "https://github.com/tandrlemandrle/GEDR",
+      "url": "https://github.com/CroatiaSecurity/GEDR",
       "category": "security",
       "tags": ["edr", "security", "windows"]
     }
@@ -164,7 +164,7 @@ Edit CSS variables in `index.html`:
   "language": "Python",
   "stars": 0,
   "forks": 0,
-  "url": "https://github.com/tandrlemandrle/ProjectName",
+  "url": "https://github.com/CroatiaSecurity/ProjectName",
   "category": "tools",
   "tags": ["python", "automation"]
 }
