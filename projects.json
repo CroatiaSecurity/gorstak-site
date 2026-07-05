@@ -1,51 +1,11 @@
 [
   {
-    "full_name": "CroatiaSecurity/Powershell",
-    "name": "Powershell",
-    "description": "PowerShell scripts for Windows security, automation, and system administration",
-    "language": "PowerShell",
-    "updated_at": "2026-07-01T05:48:13Z",
-    "size": 1117,
-    "default_branch": "master",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
-    "language": "HTML",
-    "updated_at": "2026-07-01T03:08:51Z",
-    "size": 17341,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-07-01T02:08:48Z",
-    "size": 145,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-07-01T00:43:03Z",
-    "size": 3333,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.1.7"
-  },
-  {
-    "full_name": "CroatiaSecurity/Debloat",
-    "name": "Debloat",
-    "description": "Windows debloat presets for NTLite and WinReducer",
-    "language": null,
-    "updated_at": "2026-06-29T13:18:14Z",
-    "size": 296,
+    "full_name": "CroatiaSecurity/Policies",
+    "name": "Policies",
+    "description": "Policies",
+    "language": "Batchfile",
+    "updated_at": "2026-07-05T10:56:17Z",
+    "size": 380,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -54,10 +14,140 @@
     "name": "Registry",
     "description": "Windows registry tweaks for security, privacy, and performance",
     "language": null,
-    "updated_at": "2026-06-29T09:42:36Z",
-    "size": 1923,
+    "updated_at": "2026-07-05T10:56:17Z",
+    "size": 2003,
     "default_branch": "main",
     "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/GS",
+    "name": "GS",
+    "description": "Windows security baseline via LGPO and security templates",
+    "language": "Batchfile",
+    "updated_at": "2026-07-05T10:56:16Z",
+    "size": 232,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
+    "language": "HTML",
+    "updated_at": "2026-07-05T10:56:15Z",
+    "size": 3246,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Powershell",
+    "name": "Powershell",
+    "description": "PowerShell scripts for Windows security, automation, and system administration",
+    "language": "PowerShell",
+    "updated_at": "2026-07-05T10:56:14Z",
+    "size": 1014,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-07-05T10:47:48Z",
+    "size": 3234,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.2.6"
+  },
+  {
+    "full_name": "CroatiaSecurity/Harmony",
+    "name": "Harmony",
+    "description": "Background healing tone generator — Schumann resonance, solfeggio frequencies, binaural beats",
+    "language": "C#",
+    "updated_at": "2026-07-05T09:38:52Z",
+    "size": 52047,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Harmony/releases/tag/v0.0.1"
+  },
+  {
+    "full_name": "CroatiaSecurity/Html",
+    "name": "Html",
+    "description": "Single-page HTML tools and utilities",
+    "language": "HTML",
+    "updated_at": "2026-07-05T09:38:36Z",
+    "size": 690,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Pac",
+    "name": "Pac",
+    "description": "Proxy auto-config for ad and tracker blocking",
+    "language": "JavaScript",
+    "updated_at": "2026-07-05T09:38:27Z",
+    "size": 21,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Python",
+    "name": "Python",
+    "description": "Python scripts for networking, automation, and utilities",
+    "language": "Python",
+    "updated_at": "2026-07-05T09:38:05Z",
+    "size": 19,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Infinity",
+    "name": "Infinity",
+    "description": "Infinity",
+    "language": "Bikeshed",
+    "updated_at": "2026-07-05T09:37:10Z",
+    "size": 6,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/GorstaksAI",
+    "name": "GorstaksAI",
+    "description": "AI experiments and projects",
+    "language": "JavaScript",
+    "updated_at": "2026-07-05T09:35:37Z",
+    "size": 25,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-07-05T09:35:33Z",
+    "size": 65,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Debloat",
+    "name": "Debloat",
+    "description": "Windows debloat presets for NTLite and WinReducer",
+    "language": null,
+    "updated_at": "2026-07-05T09:35:22Z",
+    "size": 41,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Benchmark",
+    "name": "Benchmark",
+    "description": "System benchmark tool for Windows (.NET/C#)",
+    "language": "C#",
+    "updated_at": "2026-07-05T09:35:15Z",
+    "size": 296,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Benchmark/releases/tag/v0.4.0"
   },
   {
     "full_name": "CroatiaSecurity/Ceprkac",
@@ -77,16 +167,6 @@
     "updated_at": "2026-06-28T07:34:44Z",
     "size": 709,
     "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Pac",
-    "name": "Pac",
-    "description": "Proxy auto-config for ad and tracker blocking",
-    "language": "JavaScript",
-    "updated_at": "2026-06-19T10:25:50Z",
-    "size": 19,
-    "default_branch": "master",
     "latestReleaseUrl": null
   },
   {
@@ -136,7 +216,7 @@
     "language": "C#",
     "updated_at": "2026-06-17T16:08:42Z",
     "size": 451,
-    "default_branch": "master",
+    "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/TrimKit/releases/tag/v0.0.6"
   },
   {
@@ -148,16 +228,6 @@
     "size": 3069,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v0.7.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/Html",
-    "name": "Html",
-    "description": "Single-page HTML tools and utilities",
-    "language": "HTML",
-    "updated_at": "2026-05-29T05:17:24Z",
-    "size": 17,
-    "default_branch": "master",
-    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/GIDE",
@@ -178,16 +248,6 @@
     "size": 85,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v5.4"
-  },
-  {
-    "full_name": "CroatiaSecurity/Python",
-    "name": "Python",
-    "description": "Python scripts for networking, automation, and utilities",
-    "language": "Python",
-    "updated_at": "2026-05-13T08:05:16Z",
-    "size": 11,
-    "default_branch": "master",
-    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Troll",
@@ -230,36 +290,6 @@
     "latestReleaseUrl": null
   },
   {
-    "full_name": "CroatiaSecurity/GorstaksAI",
-    "name": "GorstaksAI",
-    "description": "AI experiments and projects",
-    "language": "JavaScript",
-    "updated_at": "2026-05-13T08:04:42Z",
-    "size": 25,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GS",
-    "name": "GS",
-    "description": "Windows security baseline via LGPO and security templates",
-    "language": "Batchfile",
-    "updated_at": "2026-05-13T08:04:38Z",
-    "size": 232,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Benchmark",
-    "name": "Benchmark",
-    "description": "System benchmark tool for Windows (.NET/C#)",
-    "language": "C#",
-    "updated_at": "2026-05-13T08:04:35Z",
-    "size": 296,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Benchmark/releases/tag/v0.4.0"
-  },
-  {
     "full_name": "CroatiaSecurity/GPrep",
     "name": "GPrep",
     "description": "Windows system preparation and configuration tool",
@@ -286,7 +316,7 @@
     "language": "Batchfile",
     "updated_at": "2026-05-13T08:04:28Z",
     "size": 6,
-    "default_branch": "master",
+    "default_branch": "main",
     "latestReleaseUrl": null
   }
 ]
