@@ -1,11 +1,51 @@
 [
   {
+    "full_name": "CroatiaSecurity/Powershell",
+    "name": "Powershell",
+    "description": "PowerShell scripts for Windows security, automation, and system administration",
+    "language": "PowerShell",
+    "updated_at": "2026-07-06T00:21:21Z",
+    "size": 1044,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Registry",
+    "name": "Registry",
+    "description": "Windows registry tweaks for security, privacy, and performance",
+    "language": null,
+    "updated_at": "2026-07-05T23:00:49Z",
+    "size": 2004,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
+    "language": "HTML",
+    "updated_at": "2026-07-05T23:00:48Z",
+    "size": 3314,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-07-05T23:00:03Z",
+    "size": 3266,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.2.7"
+  },
+  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-07-05T13:02:11Z",
-    "size": 66,
+    "updated_at": "2026-07-05T18:56:53Z",
+    "size": 68,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -20,16 +60,6 @@
     "latestReleaseUrl": null
   },
   {
-    "full_name": "CroatiaSecurity/Registry",
-    "name": "Registry",
-    "description": "Windows registry tweaks for security, privacy, and performance",
-    "language": null,
-    "updated_at": "2026-07-05T10:56:17Z",
-    "size": 2003,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/GS",
     "name": "GS",
     "description": "Windows security baseline via LGPO and security templates",
@@ -38,36 +68,6 @@
     "size": 232,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
-    "language": "HTML",
-    "updated_at": "2026-07-05T10:56:15Z",
-    "size": 3246,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Powershell",
-    "name": "Powershell",
-    "description": "PowerShell scripts for Windows security, automation, and system administration",
-    "language": "PowerShell",
-    "updated_at": "2026-07-05T10:56:14Z",
-    "size": 1014,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-07-05T10:47:48Z",
-    "size": 3234,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.2.6"
   },
   {
     "full_name": "CroatiaSecurity/Harmony",
