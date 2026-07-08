@@ -1,21 +1,71 @@
 [
   {
+    "full_name": "CroatiaSecurity/Registry",
+    "name": "Registry",
+    "description": "Windows registry tweaks for security, privacy, and performance",
+    "language": null,
+    "updated_at": "2026-07-07T21:36:11Z",
+    "size": 2099,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-07-07T21:15:06Z",
+    "size": 2488,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.2.8"
+  },
+  {
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
+    "language": "HTML",
+    "updated_at": "2026-07-07T21:06:53Z",
+    "size": 3315,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Policies",
+    "name": "Policies",
+    "description": "Policies",
+    "language": "Batchfile",
+    "updated_at": "2026-07-07T20:45:33Z",
+    "size": 432,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Pac",
+    "name": "Pac",
+    "description": "Proxy auto-config for ad and tracker blocking",
+    "language": "JavaScript",
+    "updated_at": "2026-07-07T20:28:34Z",
+    "size": 27,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-07-07T19:30:16Z",
+    "size": 80,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/Provisioning",
     "name": "Provisioning",
     "description": null,
     "language": null,
     "updated_at": "2026-07-07T19:26:19Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/JS",
-    "name": "JS",
-    "description": null,
-    "language": "JavaScript",
-    "updated_at": "2026-07-07T19:26:07Z",
-    "size": 0,
+    "size": 4,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -25,27 +75,7 @@
     "description": null,
     "language": null,
     "updated_at": "2026-07-07T19:26:01Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/C-",
-    "name": "C-",
-    "description": null,
-    "language": null,
-    "updated_at": "2026-07-07T19:25:48Z",
-    "size": 0,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Registry",
-    "name": "Registry",
-    "description": "Windows registry tweaks for security, privacy, and performance",
-    "language": null,
-    "updated_at": "2026-07-07T19:24:07Z",
-    "size": 2004,
+    "size": 17,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -55,7 +85,7 @@
     "description": "PowerShell scripts for Windows security, automation, and system administration",
     "language": "PowerShell",
     "updated_at": "2026-07-07T19:23:51Z",
-    "size": 1044,
+    "size": 1038,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -65,7 +95,7 @@
     "description": "Personal guides, notes, and writings",
     "language": null,
     "updated_at": "2026-07-07T19:23:39Z",
-    "size": 709,
+    "size": 712,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -75,47 +105,7 @@
     "description": "Windows CMD batch scripts for system administration",
     "language": "Batchfile",
     "updated_at": "2026-07-07T19:22:48Z",
-    "size": 6,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-07-07T14:05:14Z",
-    "size": 78,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
-    "language": "HTML",
-    "updated_at": "2026-07-05T23:00:48Z",
-    "size": 3314,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-07-05T23:00:03Z",
-    "size": 3266,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.2.7"
-  },
-  {
-    "full_name": "CroatiaSecurity/Policies",
-    "name": "Policies",
-    "description": "Policies",
-    "language": "Batchfile",
-    "updated_at": "2026-07-05T10:56:17Z",
-    "size": 380,
+    "size": 11,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -146,16 +136,6 @@
     "language": "HTML",
     "updated_at": "2026-07-05T09:38:36Z",
     "size": 690,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Pac",
-    "name": "Pac",
-    "description": "Proxy auto-config for ad and tracker blocking",
-    "language": "JavaScript",
-    "updated_at": "2026-07-05T09:38:27Z",
-    "size": 21,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -277,7 +257,7 @@
     "updated_at": "2026-06-15T21:53:21Z",
     "size": 3069,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v0.7.0"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v0.6.0"
   },
   {
     "full_name": "CroatiaSecurity/GIDE",
