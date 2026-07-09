@@ -1,11 +1,21 @@
 [
   {
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-07-09T05:10:55Z",
+    "size": 2611,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.2.9"
+  },
+  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-07-08T19:03:07Z",
-    "size": 60,
+    "updated_at": "2026-07-09T01:44:26Z",
+    "size": 62,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -18,16 +28,6 @@
     "size": 2099,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-07-07T21:15:06Z",
-    "size": 2488,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.2.8"
   },
   {
     "full_name": "CroatiaSecurity/GSecurity",
