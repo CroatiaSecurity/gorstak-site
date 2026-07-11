@@ -1,10 +1,30 @@
 [
   {
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-07-11T11:26:44Z",
+    "size": 70458,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.3.4"
+  },
+  {
+    "full_name": "CroatiaSecurity/Debloat",
+    "name": "Debloat",
+    "description": "Windows debloat presets for NTLite and WinReducer",
+    "language": null,
+    "updated_at": "2026-07-11T10:12:22Z",
+    "size": 79,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-07-11T01:22:08Z",
+    "updated_at": "2026-07-11T07:29:22Z",
     "size": 75,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -38,16 +58,6 @@
     "size": 5406,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-07-10T05:19:58Z",
-    "size": 3146,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.5.1"
   },
   {
     "full_name": "CroatiaSecurity/Policies",
@@ -166,16 +176,6 @@
     "language": "JavaScript",
     "updated_at": "2026-07-05T09:35:37Z",
     "size": 25,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Debloat",
-    "name": "Debloat",
-    "description": "Windows debloat presets for NTLite and WinReducer",
-    "language": null,
-    "updated_at": "2026-07-05T09:35:22Z",
-    "size": 41,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
