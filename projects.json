@@ -4,18 +4,18 @@
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-07-11T11:26:44Z",
-    "size": 70458,
+    "updated_at": "2026-07-11T17:39:22Z",
+    "size": 138635,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.3.4"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.3.5"
   },
   {
     "full_name": "CroatiaSecurity/Debloat",
     "name": "Debloat",
     "description": "Windows debloat presets for NTLite and WinReducer",
     "language": null,
-    "updated_at": "2026-07-11T10:12:22Z",
-    "size": 79,
+    "updated_at": "2026-07-11T13:18:17Z",
+    "size": 110,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -24,8 +24,8 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-07-11T07:29:22Z",
-    "size": 75,
+    "updated_at": "2026-07-11T12:47:37Z",
+    "size": 78,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
