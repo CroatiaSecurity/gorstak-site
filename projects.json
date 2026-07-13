@@ -1,31 +1,31 @@
 [
   {
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
+    "language": "HTML",
+    "updated_at": "2026-07-13T17:45:58Z",
+    "size": 70702,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/Sentinel",
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-07-13T13:07:05Z",
-    "size": 343842,
+    "updated_at": "2026-07-13T17:16:40Z",
+    "size": 344059,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.4.3"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.4.4"
   },
   {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-07-13T08:42:17Z",
-    "size": 87,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
-    "language": "HTML",
-    "updated_at": "2026-07-12T22:16:08Z",
-    "size": 70684,
+    "updated_at": "2026-07-13T13:58:08Z",
+    "size": 90,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
