@@ -1,23 +1,23 @@
 [
   {
-    "full_name": "CroatiaSecurity/Behavedr",
-    "name": "Behavedr",
-    "description": "Multi-platform behavioral EDR: Windows, Linux, macOS, Android, iOS.",
-    "language": "C#",
-    "updated_at": "2026-07-21T13:06:02Z",
-    "size": 368,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Behavedr/releases/tag/v0.1.4"
-  },
-  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-07-21T08:05:18Z",
-    "size": 74,
+    "updated_at": "2026-07-21T13:15:00Z",
+    "size": 75,
     "default_branch": "main",
     "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Behavedr",
+    "name": "Behavedr",
+    "description": "Multi-platform behavioral EDR: Windows, Linux, macOS, Android, iOS.",
+    "language": "C#",
+    "updated_at": "2026-07-21T13:13:45Z",
+    "size": 436,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Behavedr/releases/tag/v0.1.5"
   },
   {
     "full_name": "CroatiaSecurity/Notes",
@@ -35,7 +35,7 @@
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
     "updated_at": "2026-07-18T19:19:41Z",
-    "size": 347363,
+    "size": 347402,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.5.5"
   },
