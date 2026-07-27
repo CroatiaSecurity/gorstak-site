@@ -1,23 +1,33 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-07-27T09:23:27Z",
-    "size": 112,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/Sentinel",
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-07-26T23:04:51Z",
-    "size": 345628,
+    "updated_at": "2026-07-27T18:39:50Z",
+    "size": 413987,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/1.6.3"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.6.5"
+  },
+  {
+    "full_name": "CroatiaSecurity/Powershell",
+    "name": "Powershell",
+    "description": "PowerShell scripts for Windows security, automation, and system administration",
+    "language": "PowerShell",
+    "updated_at": "2026-07-27T15:45:02Z",
+    "size": 3608,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-07-27T14:07:44Z",
+    "size": 112,
+    "default_branch": "main",
+    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Behavedr",
@@ -36,16 +46,6 @@
     "language": "HTML",
     "updated_at": "2026-07-25T05:42:19Z",
     "size": 70829,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Powershell",
-    "name": "Powershell",
-    "description": "PowerShell scripts for Windows security, automation, and system administration",
-    "language": "PowerShell",
-    "updated_at": "2026-07-25T05:42:01Z",
-    "size": 1368,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
