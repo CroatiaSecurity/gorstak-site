@@ -4,8 +4,8 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-07-27T01:46:06Z",
-    "size": 109,
+    "updated_at": "2026-07-27T09:23:27Z",
+    "size": 112,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -25,7 +25,7 @@
     "description": "Multi-platform behavioral EDR: Windows, Linux, macOS, Android, iOS.",
     "language": "C#",
     "updated_at": "2026-07-25T11:28:31Z",
-    "size": 927,
+    "size": 934,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Behavedr/releases/tag/v0.4.0"
   },
