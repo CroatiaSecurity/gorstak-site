@@ -1,11 +1,31 @@
 [
   {
+    "full_name": "CroatiaSecurity/GSecurity-Ad-Shield",
+    "name": "GSecurity-Ad-Shield",
+    "description": "Browser-based ad and tracker shield",
+    "language": "JavaScript",
+    "updated_at": "2026-07-30T19:37:27Z",
+    "size": 179,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-07-30T19:07:24Z",
+    "size": 135,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/Behavedr",
     "name": "Behavedr",
     "description": "Multi-platform behavioral EDR: Windows, Linux, macOS, Android, iOS.",
     "language": "C#",
     "updated_at": "2026-07-30T18:18:27Z",
-    "size": 1163,
+    "size": 1179,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Behavedr/releases/tag/v0.4.1"
   },
@@ -18,16 +38,6 @@
     "size": 484881,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.8.2"
-  },
-  {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-07-30T13:24:30Z",
-    "size": 134,
-    "default_branch": "main",
-    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/GSecurity",
@@ -66,16 +76,6 @@
     "language": null,
     "updated_at": "2026-07-25T05:39:10Z",
     "size": 2892,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity-Ad-Shield",
-    "name": "GSecurity-Ad-Shield",
-    "description": "Browser-based ad and tracker shield",
-    "language": "JavaScript",
-    "updated_at": "2026-07-24T05:15:33Z",
-    "size": 155,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
