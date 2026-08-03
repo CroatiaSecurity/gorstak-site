@@ -1,11 +1,21 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-03T01:27:16Z",
-    "size": 88,
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-08-03T13:16:04Z",
+    "size": 484312,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.9.3"
+  },
+  {
+    "full_name": "CroatiaSecurity/Powershell",
+    "name": "Powershell",
+    "description": "PowerShell scripts for Windows security, automation, and system administration",
+    "language": "PowerShell",
+    "updated_at": "2026-08-03T11:33:37Z",
+    "size": 4068,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -14,30 +24,20 @@
     "name": "GSecurity",
     "description": "Windows security configuration and policies",
     "language": "HTML",
-    "updated_at": "2026-08-02T16:26:27Z",
-    "size": 79128,
+    "updated_at": "2026-08-03T11:32:10Z",
+    "size": 79130,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
   {
-    "full_name": "CroatiaSecurity/Powershell",
-    "name": "Powershell",
-    "description": "PowerShell scripts for Windows security, automation, and system administration",
-    "language": "PowerShell",
-    "updated_at": "2026-08-02T16:25:31Z",
-    "size": 3952,
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-03T08:59:01Z",
+    "size": 90,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-08-02T15:58:18Z",
-    "size": 484312,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.9.2"
   },
   {
     "full_name": "CroatiaSecurity/Notes",
