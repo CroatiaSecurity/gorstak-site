@@ -1,11 +1,21 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
     "language": "HTML",
-    "updated_at": "2026-08-04T01:17:38Z",
-    "size": 94,
+    "updated_at": "2026-08-04T13:37:07Z",
+    "size": 79130,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Powershell",
+    "name": "Powershell",
+    "description": "PowerShell scripts for Windows security, automation, and system administration",
+    "language": "PowerShell",
+    "updated_at": "2026-08-04T13:36:22Z",
+    "size": 4068,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -14,28 +24,18 @@
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-08-03T16:49:56Z",
-    "size": 485024,
+    "updated_at": "2026-08-04T12:43:27Z",
+    "size": 485515,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.9.6"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v1.9.8"
   },
   {
-    "full_name": "CroatiaSecurity/Powershell",
-    "name": "Powershell",
-    "description": "PowerShell scripts for Windows security, automation, and system administration",
-    "language": "PowerShell",
-    "updated_at": "2026-08-03T11:33:37Z",
-    "size": 4068,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-08-03T11:32:10Z",
-    "size": 79130,
+    "updated_at": "2026-08-04T08:14:09Z",
+    "size": 97,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
