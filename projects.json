@@ -1,23 +1,33 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-08T12:21:04Z",
-    "size": 122,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/Sentinel",
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-08-08T08:57:25Z",
+    "updated_at": "2026-08-08T23:45:30Z",
     "size": 486855,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.0.3"
+  },
+  {
+    "full_name": "CroatiaSecurity/GSecurity-Ad-Shield",
+    "name": "GSecurity-Ad-Shield",
+    "description": "Browser-based ad and tracker shield",
+    "language": "JavaScript",
+    "updated_at": "2026-08-08T20:40:19Z",
+    "size": 215,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v1.2.0"
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-08T18:19:12Z",
+    "size": 125,
+    "default_branch": "main",
+    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/GSecurity",
@@ -48,16 +58,6 @@
     "size": 792,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity-Ad-Shield",
-    "name": "GSecurity-Ad-Shield",
-    "description": "Browser-based ad and tracker shield",
-    "language": "JavaScript",
-    "updated_at": "2026-08-01T07:09:31Z",
-    "size": 208,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v1.1.0"
   },
   {
     "full_name": "CroatiaSecurity/Batch",
