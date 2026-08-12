@@ -1,23 +1,43 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-12T07:03:39Z",
-    "size": 147,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/Sentinel",
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-08-12T01:00:22Z",
-    "size": 508865,
+    "updated_at": "2026-08-12T16:27:28Z",
+    "size": 492169,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.1.0"
+  },
+  {
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
+    "language": "HTML",
+    "updated_at": "2026-08-12T15:41:54Z",
+    "size": 103747,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Debloat",
+    "name": "Debloat",
+    "description": "Windows debloat presets for NTLite and WinReducer",
+    "language": null,
+    "updated_at": "2026-08-12T13:48:40Z",
+    "size": 164,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-12T12:39:15Z",
+    "size": 148,
+    "default_branch": "main",
+    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Notes",
@@ -26,16 +46,6 @@
     "language": null,
     "updated_at": "2026-08-10T16:23:13Z",
     "size": 813,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
-    "language": "HTML",
-    "updated_at": "2026-08-09T17:44:59Z",
-    "size": 103746,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -86,16 +96,6 @@
     "language": null,
     "updated_at": "2026-07-25T05:39:10Z",
     "size": 2892,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Debloat",
-    "name": "Debloat",
-    "description": "Windows debloat presets for NTLite and WinReducer",
-    "language": null,
-    "updated_at": "2026-07-24T03:01:34Z",
-    "size": 141,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
