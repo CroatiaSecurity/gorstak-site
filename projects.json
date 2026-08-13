@@ -1,21 +1,31 @@
 [
   {
-    "full_name": "CroatiaSecurity/Debloat",
-    "name": "Debloat",
-    "description": "Windows debloat presets for NTLite and WinReducer",
-    "language": "PowerShell",
-    "updated_at": "2026-08-13T00:54:34Z",
-    "size": 164,
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
+    "language": "HTML",
+    "updated_at": "2026-08-13T03:49:39Z",
+    "size": 112231,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-12T18:44:09Z",
-    "size": 150,
+    "full_name": "CroatiaSecurity/GSecurity-Ad-Shield",
+    "name": "GSecurity-Ad-Shield",
+    "description": "Browser-based ad and tracker shield",
+    "language": "JavaScript",
+    "updated_at": "2026-08-13T03:39:32Z",
+    "size": 254,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v1.5.0"
+  },
+  {
+    "full_name": "CroatiaSecurity/Debloat",
+    "name": "Debloat",
+    "description": "Windows debloat presets for NTLite and WinReducer",
+    "language": "PowerShell",
+    "updated_at": "2026-08-13T02:49:37Z",
+    "size": 83,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -24,18 +34,18 @@
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-08-12T16:27:28Z",
-    "size": 492169,
+    "updated_at": "2026-08-13T01:33:10Z",
+    "size": 492370,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.1.0"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.1.1"
   },
   {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-08-12T15:41:54Z",
-    "size": 103747,
+    "updated_at": "2026-08-13T00:55:57Z",
+    "size": 151,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -58,16 +68,6 @@
     "size": 4071,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity-Ad-Shield",
-    "name": "GSecurity-Ad-Shield",
-    "description": "Browser-based ad and tracker shield",
-    "language": "JavaScript",
-    "updated_at": "2026-08-08T20:40:19Z",
-    "size": 215,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v1.2.0"
   },
   {
     "full_name": "CroatiaSecurity/Batch",
