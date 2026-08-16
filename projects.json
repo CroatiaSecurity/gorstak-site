@@ -1,11 +1,21 @@
 [
   {
+    "full_name": "CroatiaSecurity/TrimKit",
+    "name": "TrimKit",
+    "description": "Free Windows Image Customization Tool — NTLite/WinReducer alternative",
+    "language": "C#",
+    "updated_at": "2026-08-15T23:02:41Z",
+    "size": 498,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/TrimKit/releases/tag/v0.1.0"
+  },
+  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-08-15T12:13:39Z",
-    "size": 167,
+    "updated_at": "2026-08-15T18:10:50Z",
+    "size": 169,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -268,16 +278,6 @@
     "size": 397,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GTalk/releases/tag/v0.1.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/TrimKit",
-    "name": "TrimKit",
-    "description": "Free Windows Image Customization Tool — NTLite/WinReducer alternative",
-    "language": "C#",
-    "updated_at": "2026-06-17T16:08:42Z",
-    "size": 451,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/TrimKit/releases/tag/v0.0.6"
   },
   {
     "full_name": "CroatiaSecurity/GIDE",
