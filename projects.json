@@ -1,10 +1,30 @@
 [
   {
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
+    "language": "HTML",
+    "updated_at": "2026-08-16T13:11:10Z",
+    "size": 112240,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Debloat",
+    "name": "Debloat",
+    "description": "Windows debloat presets for NTLite and WinReducer",
+    "language": null,
+    "updated_at": "2026-08-16T12:53:30Z",
+    "size": 119,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-08-16T06:18:49Z",
+    "updated_at": "2026-08-16T12:13:59Z",
     "size": 173,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -28,26 +48,6 @@
     "size": 278,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v1.6.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
-    "language": "HTML",
-    "updated_at": "2026-08-13T03:49:39Z",
-    "size": 112231,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Debloat",
-    "name": "Debloat",
-    "description": "Windows debloat presets for NTLite and WinReducer",
-    "language": "PowerShell",
-    "updated_at": "2026-08-13T02:49:37Z",
-    "size": 83,
-    "default_branch": "main",
-    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Sentinel",
