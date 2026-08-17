@@ -1,10 +1,30 @@
 [
   {
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-08-17T06:06:06Z",
+    "size": 492370,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.1.2"
+  },
+  {
+    "full_name": "CroatiaSecurity/GBrowser",
+    "name": "GBrowser",
+    "description": "Custom Chromium-based browser build with ad blocking",
+    "language": "Python",
+    "updated_at": "2026-08-17T04:41:10Z",
+    "size": 145,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v5.8"
+  },
+  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-08-16T18:11:14Z",
+    "updated_at": "2026-08-17T00:31:13Z",
     "size": 176,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -48,16 +68,6 @@
     "size": 278,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GSecurity-Ad-Shield/releases/tag/v1.6.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-08-13T01:33:10Z",
-    "size": 492370,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.1.1"
   },
   {
     "full_name": "CroatiaSecurity/Notes",
@@ -288,16 +298,6 @@
     "size": 5696,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GIDE/releases/tag/v0.9.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/GBrowser",
-    "name": "GBrowser",
-    "description": "Custom Chromium-based browser build with ad blocking",
-    "language": "Python",
-    "updated_at": "2026-05-13T09:18:35Z",
-    "size": 85,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v5.4"
   },
   {
     "full_name": "CroatiaSecurity/Troll",
