@@ -1,23 +1,53 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-22T18:12:24Z",
-    "size": 116,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/Sentinel",
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-08-22T16:58:56Z",
+    "updated_at": "2026-08-23T06:18:07Z",
     "size": 494234,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.1.9"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.2.1"
+  },
+  {
+    "full_name": "CroatiaSecurity/Ceprkac",
+    "name": "Ceprkac",
+    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
+    "language": "C#",
+    "updated_at": "2026-08-23T05:22:09Z",
+    "size": 182377,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.6.7"
+  },
+  {
+    "full_name": "CroatiaSecurity/GBrowser",
+    "name": "GBrowser",
+    "description": "Custom Chromium-based browser build with ad blocking",
+    "language": "Python",
+    "updated_at": "2026-08-23T03:16:11Z",
+    "size": 161,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v6.0"
+  },
+  {
+    "full_name": "CroatiaSecurity/Debloat",
+    "name": "Debloat",
+    "description": "Windows debloat presets for NTLite and WinReducer",
+    "language": null,
+    "updated_at": "2026-08-23T02:34:46Z",
+    "size": 120,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-23T00:34:10Z",
+    "size": 119,
+    "default_branch": "main",
+    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/GSecurity",
@@ -38,26 +68,6 @@
     "size": 1241,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Behavedr/releases/tag/v0.4.2"
-  },
-  {
-    "full_name": "CroatiaSecurity/GBrowser",
-    "name": "GBrowser",
-    "description": "Custom Chromium-based browser build with ad blocking",
-    "language": "Python",
-    "updated_at": "2026-08-17T04:41:10Z",
-    "size": 145,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v5.8"
-  },
-  {
-    "full_name": "CroatiaSecurity/Debloat",
-    "name": "Debloat",
-    "description": "Windows debloat presets for NTLite and WinReducer",
-    "language": null,
-    "updated_at": "2026-08-16T12:53:30Z",
-    "size": 119,
-    "default_branch": "main",
-    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/TrimKit",
@@ -238,16 +248,6 @@
     "size": 296,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Benchmark/releases/tag/v0.4.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/Ceprkac",
-    "name": "Ceprkac",
-    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
-    "language": "C#",
-    "updated_at": "2026-06-28T11:27:30Z",
-    "size": 182358,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.6.5.0"
   },
   {
     "full_name": "CroatiaSecurity/PiHole",
