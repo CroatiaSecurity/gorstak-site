@@ -1,23 +1,43 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-23T12:16:15Z",
-    "size": 122,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/GSecurity",
     "name": "GSecurity",
     "description": "Windows security configuration and policies",
     "language": "HTML",
-    "updated_at": "2026-08-23T07:34:16Z",
-    "size": 148088,
+    "updated_at": "2026-08-23T22:39:46Z",
+    "size": 150176,
     "default_branch": "main",
     "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-23T22:04:34Z",
+    "size": 129,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/Ceprkac",
+    "name": "Ceprkac",
+    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
+    "language": "C#",
+    "updated_at": "2026-08-23T22:04:26Z",
+    "size": 182495,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.7.0"
+  },
+  {
+    "full_name": "CroatiaSecurity/GBrowser",
+    "name": "GBrowser",
+    "description": "Custom Chromium-based browser build with ad blocking",
+    "language": "Python",
+    "updated_at": "2026-08-23T22:04:20Z",
+    "size": 172,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v6.0"
   },
   {
     "full_name": "CroatiaSecurity/Sentinel",
@@ -28,26 +48,6 @@
     "size": 493117,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.2.2"
-  },
-  {
-    "full_name": "CroatiaSecurity/Ceprkac",
-    "name": "Ceprkac",
-    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
-    "language": "C#",
-    "updated_at": "2026-08-23T05:22:09Z",
-    "size": 182419,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.7.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/GBrowser",
-    "name": "GBrowser",
-    "description": "Custom Chromium-based browser build with ad blocking",
-    "language": "Python",
-    "updated_at": "2026-08-23T03:16:11Z",
-    "size": 161,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v6.0"
   },
   {
     "full_name": "CroatiaSecurity/Debloat",
