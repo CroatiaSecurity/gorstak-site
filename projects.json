@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "CroatiaSecurity/GIDE",
+    "name": "GIDE",
+    "description": "Lightweight IDE for Windows (.NET/C#)",
+    "language": "C#",
+    "updated_at": "2026-08-25T14:15:35Z",
+    "size": 5738,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GIDE/releases/tag/v1.0.0"
+  },
+  {
+    "full_name": "CroatiaSecurity/Ceprkac",
+    "name": "Ceprkac",
+    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
+    "language": "C#",
+    "updated_at": "2026-08-25T13:17:31Z",
+    "size": 182571,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.7.4"
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-25T12:29:30Z",
+    "size": 141,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/GSecurity",
     "name": "GSecurity",
     "description": "Windows security configuration and policies",
@@ -18,26 +48,6 @@
     "size": 494791,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.2.8"
-  },
-  {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-25T06:23:33Z",
-    "size": 138,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Ceprkac",
-    "name": "Ceprkac",
-    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
-    "language": "C#",
-    "updated_at": "2026-08-24T12:06:36Z",
-    "size": 182563,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.7.2"
   },
   {
     "full_name": "CroatiaSecurity/Behavedr",
@@ -288,16 +298,6 @@
     "size": 397,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GTalk/releases/tag/v0.1.0"
-  },
-  {
-    "full_name": "CroatiaSecurity/GIDE",
-    "name": "GIDE",
-    "description": "Lightweight IDE for Windows (.NET/C#)",
-    "language": "C#",
-    "updated_at": "2026-05-28T17:15:20Z",
-    "size": 5696,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GIDE/releases/tag/v0.9.0"
   },
   {
     "full_name": "CroatiaSecurity/Troll",
