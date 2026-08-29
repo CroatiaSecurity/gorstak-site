@@ -1,5 +1,25 @@
 [
   {
+    "full_name": "CroatiaSecurity/Sentinel",
+    "name": "Sentinel",
+    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
+    "language": "C#",
+    "updated_at": "2026-08-28T21:34:11Z",
+    "size": 503866,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.3.2"
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-28T17:48:32Z",
+    "size": 154,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/Ceprkac",
     "name": "Ceprkac",
     "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
@@ -8,16 +28,6 @@
     "size": 182695,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.7.7"
-  },
-  {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-08-28T01:50:33Z",
-    "size": 153,
-    "default_branch": "main",
-    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Notes",
@@ -38,16 +48,6 @@
     "size": 184807,
     "default_branch": "main",
     "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/Sentinel",
-    "name": "Sentinel",
-    "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
-    "language": "C#",
-    "updated_at": "2026-08-26T09:51:47Z",
-    "size": 503654,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.3.1"
   },
   {
     "full_name": "CroatiaSecurity/GIDE",
