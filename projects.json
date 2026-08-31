@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "CroatiaSecurity/Ceprkac",
+    "name": "Ceprkac",
+    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
+    "language": "C#",
+    "updated_at": "2026-08-31T11:55:15Z",
+    "size": 182719,
+    "default_branch": "main",
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.8.1"
+  },
+  {
     "full_name": "CroatiaSecurity/gorstak-site",
     "name": "gorstak-site",
     "description": "Personal website",
@@ -28,16 +38,6 @@
     "size": 504350,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.3.5"
-  },
-  {
-    "full_name": "CroatiaSecurity/Ceprkac",
-    "name": "Ceprkac",
-    "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
-    "language": "C#",
-    "updated_at": "2026-08-31T11:12:28Z",
-    "size": 182719,
-    "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.8.1"
   },
   {
     "full_name": "CroatiaSecurity/Notes",
