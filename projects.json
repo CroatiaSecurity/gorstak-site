@@ -35,7 +35,7 @@
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
     "updated_at": "2026-08-31T11:12:44Z",
-    "size": 504350,
+    "size": 504630,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.3.5"
   },
