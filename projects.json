@@ -1,11 +1,11 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
+    "full_name": "CroatiaSecurity/GSecurity",
+    "name": "GSecurity",
+    "description": "Windows security configuration and policies",
     "language": "HTML",
-    "updated_at": "2026-08-30T20:11:23Z",
-    "size": 166,
+    "updated_at": "2026-08-31T11:23:24Z",
+    "size": 206039,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -14,20 +14,30 @@
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-08-28T21:34:11Z",
-    "size": 503866,
+    "updated_at": "2026-08-31T11:12:44Z",
+    "size": 504350,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.3.2"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.3.5"
   },
   {
     "full_name": "CroatiaSecurity/Ceprkac",
     "name": "Ceprkac",
     "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
     "language": "C#",
-    "updated_at": "2026-08-28T10:39:18Z",
-    "size": 182695,
+    "updated_at": "2026-08-31T11:12:28Z",
+    "size": 182719,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.7.7"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.8.0"
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-08-31T01:58:24Z",
+    "size": 169,
+    "default_branch": "main",
+    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Notes",
@@ -36,16 +46,6 @@
     "language": null,
     "updated_at": "2026-08-26T23:06:43Z",
     "size": 824,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/GSecurity",
-    "name": "GSecurity",
-    "description": "Windows security configuration and policies",
-    "language": "HTML",
-    "updated_at": "2026-08-26T10:19:46Z",
-    "size": 184807,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
