@@ -25,7 +25,7 @@
     "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
     "language": "C#",
     "updated_at": "2026-08-31T12:55:27Z",
-    "size": 182858,
+    "size": 182932,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.8.2"
   },
