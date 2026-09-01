@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-01T20:06:08Z",
+    "updated_at": "2026-09-01T20:07:48Z",
     "size": 287,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -87,7 +87,7 @@
     "updated_at": "2026-08-23T22:04:20Z",
     "size": 172,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v6.0"
+    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Debloat",
