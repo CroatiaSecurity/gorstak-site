@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-01T12:55:15Z",
+    "updated_at": "2026-09-01T13:05:44Z",
     "size": 232,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -15,7 +15,7 @@
     "description": "Gorstaks Protection - endpoint security agent for Windows, Linux, macOS and Android",
     "language": "C#",
     "updated_at": "2026-09-01T12:21:05Z",
-    "size": 0,
+    "size": 198,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/GorstaksProtection/releases/tag/v0.0.2"
   },
