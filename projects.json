@@ -87,7 +87,7 @@
     "updated_at": "2026-08-23T22:04:20Z",
     "size": 172,
     "default_branch": "main",
-    "latestReleaseUrl": null
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/GBrowser/releases/tag/v6.0"
   },
   {
     "full_name": "CroatiaSecurity/Debloat",
