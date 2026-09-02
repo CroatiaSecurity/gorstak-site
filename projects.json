@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-02T21:22:26Z",
+    "updated_at": "2026-09-02T21:26:24Z",
     "size": 428,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -15,7 +15,7 @@
     "description": "Windows registry tweaks for security, privacy, and performance",
     "language": null,
     "updated_at": "2026-09-02T20:26:49Z",
-    "size": 2953,
+    "size": 2956,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -25,7 +25,7 @@
     "description": "Windows security configuration and policies",
     "language": "HTML",
     "updated_at": "2026-09-02T20:26:42Z",
-    "size": 224643,
+    "size": 224644,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
