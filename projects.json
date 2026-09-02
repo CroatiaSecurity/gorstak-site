@@ -1,20 +1,10 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-09-02T18:15:13Z",
-    "size": 413,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/GSecurity",
     "name": "GSecurity",
     "description": "Windows security configuration and policies",
     "language": "HTML",
-    "updated_at": "2026-09-02T17:08:15Z",
+    "updated_at": "2026-09-02T18:20:54Z",
     "size": 224631,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -24,8 +14,18 @@
     "name": "Registry",
     "description": "Windows registry tweaks for security, privacy, and performance",
     "language": null,
-    "updated_at": "2026-09-02T17:08:06Z",
+    "updated_at": "2026-09-02T18:20:37Z",
     "size": 2694,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-09-02T18:15:13Z",
+    "size": 413,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
