@@ -4,7 +4,7 @@
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-09-03T08:45:19Z",
+    "updated_at": "2026-09-03T08:48:02Z",
     "size": 502407,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.4.2"
