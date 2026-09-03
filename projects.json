@@ -5,7 +5,7 @@
     "description": "Personal website",
     "language": "HTML",
     "updated_at": "2026-09-03T07:09:58Z",
-    "size": 479,
+    "size": 445,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
@@ -17,7 +17,7 @@
     "updated_at": "2026-09-03T07:05:00Z",
     "size": 502138,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.3.7"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.4.0"
   },
   {
     "full_name": "CroatiaSecurity/Registry",
