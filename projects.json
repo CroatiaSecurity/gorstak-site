@@ -1,21 +1,21 @@
 [
   {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-09-03T09:06:23Z",
+    "size": 496,
+    "default_branch": "main",
+    "latestReleaseUrl": null
+  },
+  {
     "full_name": "CroatiaSecurity/GSecurity",
     "name": "GSecurity",
     "description": "Windows security configuration and policies",
     "language": "HTML",
     "updated_at": "2026-09-03T09:02:20Z",
     "size": 224644,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-09-03T09:02:03Z",
-    "size": 496,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
