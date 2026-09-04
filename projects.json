@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-04T06:06:48Z",
+    "updated_at": "2026-09-04T06:08:12Z",
     "size": 634,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -25,7 +25,7 @@
     "description": "Personal guides, notes, and writings",
     "language": null,
     "updated_at": "2026-09-04T05:09:13Z",
-    "size": 845,
+    "size": 855,
     "default_branch": "main",
     "latestReleaseUrl": null
   },
