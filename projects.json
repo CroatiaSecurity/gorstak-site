@@ -1,23 +1,23 @@
 [
   {
-    "full_name": "CroatiaSecurity/gorstak-site",
-    "name": "gorstak-site",
-    "description": "Personal website",
-    "language": "HTML",
-    "updated_at": "2026-09-05T11:22:08Z",
-    "size": 826,
-    "default_branch": "main",
-    "latestReleaseUrl": null
-  },
-  {
     "full_name": "CroatiaSecurity/Ceprkac",
     "name": "Ceprkac",
     "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
     "language": "C#",
-    "updated_at": "2026-09-05T11:15:57Z",
+    "updated_at": "2026-09-05T11:23:40Z",
     "size": 182523,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.9.1"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.9.2"
+  },
+  {
+    "full_name": "CroatiaSecurity/gorstak-site",
+    "name": "gorstak-site",
+    "description": "Personal website",
+    "language": "HTML",
+    "updated_at": "2026-09-05T11:23:12Z",
+    "size": 826,
+    "default_branch": "main",
+    "latestReleaseUrl": null
   },
   {
     "full_name": "CroatiaSecurity/Sentinel",
