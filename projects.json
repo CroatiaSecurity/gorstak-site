@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-05T04:17:08Z",
+    "updated_at": "2026-09-05T04:18:11Z",
     "size": 809,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -15,7 +15,7 @@
     "description": "A Chrome-inspired tabbed web browser for Windows, built with C# WinForms and WebView2.",
     "language": "C#",
     "updated_at": "2026-09-05T04:15:09Z",
-    "size": 183018,
+    "size": 183058,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Ceprkac/releases/tag/v0.8.6"
   },
