@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-05T07:07:09Z",
+    "updated_at": "2026-09-05T07:08:12Z",
     "size": 846,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -17,7 +17,7 @@
     "updated_at": "2026-09-05T06:59:03Z",
     "size": 502887,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.4.3"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.4.4"
   },
   {
     "full_name": "CroatiaSecurity/Ceprkac",
