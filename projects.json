@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-06T08:30:53Z",
+    "updated_at": "2026-09-06T08:32:01Z",
     "size": 1110,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -14,10 +14,10 @@
     "name": "Sentinel",
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
-    "updated_at": "2026-09-06T04:06:52Z",
+    "updated_at": "2026-09-06T08:31:56Z",
     "size": 504204,
     "default_branch": "main",
-    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.4.9"
+    "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.5.0"
   },
   {
     "full_name": "CroatiaSecurity/Debloat",
