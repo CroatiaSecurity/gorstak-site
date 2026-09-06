@@ -4,7 +4,7 @@
     "name": "gorstak-site",
     "description": "Personal website",
     "language": "HTML",
-    "updated_at": "2026-09-06T09:30:31Z",
+    "updated_at": "2026-09-06T09:31:27Z",
     "size": 1126,
     "default_branch": "main",
     "latestReleaseUrl": null
@@ -15,7 +15,7 @@
     "description": "Userland IDS/EDR for Windows — behavioral threat detection and response",
     "language": "C#",
     "updated_at": "2026-09-06T08:40:06Z",
-    "size": 504204,
+    "size": 504770,
     "default_branch": "main",
     "latestReleaseUrl": "https://github.com/CroatiaSecurity/Sentinel/releases/tag/v2.5.1"
   },
